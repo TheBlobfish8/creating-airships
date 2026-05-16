@@ -1,0 +1,1 @@
+added cobblestone, stone, obsidian and some other mixing recipes via create generators
