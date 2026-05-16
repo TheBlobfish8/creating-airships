@@ -3,7 +3,7 @@
     "hotfixesFormat": null,
     "versions": [
         {
-            "id": 0.2.0,
+            "id": "0.2.0",
             "releasedAt": 1778963901180,
             "promotions": {
                 "generic": "https://discord.com/channels/1505309024277630976/1505309273234735295/1505312471869685992"
@@ -11,7 +11,7 @@
             "updateType": "major"
         },
         {
-            "id": 0.1.0,
+            "id": "0.1.0",
             "releasedAt": 1778963904180,
             "promotions": {
                 "generic": "https://discord.com/channels/1505309024277630976/1505309273234735295/1505312471869685992"
