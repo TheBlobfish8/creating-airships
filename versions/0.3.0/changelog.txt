@@ -1,0 +1,1 @@
+added inventory management, jetpacks, and extra slots to wear both elytra and goggles at the same time as armor
